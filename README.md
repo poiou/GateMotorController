@@ -1,7 +1,8 @@
 # GateMotorController
 A controller to be used with a gate motor
 
-#Material:
+## Material:
+
  - 1 Photocell gate kit
  - 1 Power supply with output of 12V
  - 5 conectors with 2 pins each to solder in PCB
@@ -13,3 +14,8 @@ A controller to be used with a gate motor
  - WeMos d1 mini
  - 2 gate motors
  
+ ## Thanks to:
+ 
+@github/brunohorta82
+@facebook/filipe.silva.359
+@facebook/deejay.serrano
