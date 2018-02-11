@@ -4,17 +4,18 @@ Someone gave two gate motors working, so i decided to install it on my gate, but
 ## Material:
 
  - 1 Photocell gate kit
- - 1 Power supply with output of 12V
+ - 1 AC adapter with 12V and 2A
  - 5 conectors with 2 pins each to solder in PCB
  - Prototype board 9X15 cm
  - 433 Mhz reciever
  - 433 Mhz remote
- - 2A 5V ac adapter
- - module of 4 relays
+ - 1 AC adapter with 5V and 2A
+ - module of 4 relays + 1 relay module
  - WeMos d1 mini
  - 2 gate motors
  - Wires and jumper cables
  - batteries to remote
+ - antenna to the reciever
 
  ## Tools
  - solder station
@@ -28,7 +29,4 @@ Someone gave two gate motors working, so i decided to install it on my gate, but
  - multimeter
  
  ## Thanks to:
- 
-@github/brunohorta82
-@facebook/filipe.silva.359
-@facebook/deejay.serrano
+@facebook/MovimentoMakerPortugal
